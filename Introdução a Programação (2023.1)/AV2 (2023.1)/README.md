@@ -21,5 +21,5 @@ Além disso utiliza bibliotecas como a <time.h> e <math.h>, e um menu feito com 
 
 
 ## ✔️ Autor
-
+| <img src="https://avatars.githubusercontent.com/u/137832582?v=4" width=115><br><sub>[ Rinaldo Marques ]</sub>
 | :---: |
