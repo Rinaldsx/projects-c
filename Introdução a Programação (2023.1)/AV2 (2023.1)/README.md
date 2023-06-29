@@ -15,11 +15,9 @@ Além disso utiliza bibliotecas como a <time.h> e <math.h>, e um menu feito com 
 ----
 
 ## ✔️ Técnicas e tecnologias utilizadas
-<div style="display: inline_block"><br>
-● <img align="center" alt="Rinaldo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+- <img align="center" alt="Rinaldo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 
 ## ✔️ Autor
-| <img src="https://avatars.githubusercontent.com/u/137832582?v=4" width=115><br><sub>[ Rinaldo Marques ]</sub>
+| <img src="https://avatars.githubusercontent.com/u/137832582?v=4" width=115><br><sub>[ Rinaldo Marques ]</sub> 
 | :---: |
